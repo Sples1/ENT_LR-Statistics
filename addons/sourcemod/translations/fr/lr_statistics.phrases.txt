@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"fr"		"Tu n'as pas encore de statisques à afficher."
+	}
+	"Summary"
+	{
+		"fr"		"Sommaire"
+	}
+	"LR_KnifeFight"
+	{
+		"fr"		"Combat de cut"
+	}
+	"LR_Shot4Shot"
+	{
+		"fr"		"Roulette"
+	}
+	"LR_GunToss"
+	{
+		"fr"		"Lancer de deagle"
+	}
+	"LR_ChickenFight"
+	{
+		"fr"		"Combat de poulet"
+	}
+	"LR_HotPotato"
+	{
+		"fr"		"Patate chaud"
+	}
+	"LR_Dodgeball"
+	{
+		"fr"		"Balle aux prisonniers"
+	}
+	"LR_NoScope"
+	{
+		"fr"		"No Scope"
+	}
+	"LR_RockPaperScissors"
+	{
+		"fr"		"Pierre feuille ciseaux"
+	}
+	"LR_Rebel"
+	{
+		"fr"		"Rebelle"
+	}
+	"LR_Mag4Mag"
+	{
+		"fr"		"Magasine"
+	}
+	"LR_Race"
+	{
+		"fr"		"Course"
+	}
+	"LR_RussianRoulette"
+	{
+		"fr"		"Roulette russe"
+	}
+	"LR_JumpContest"
+	{
+		"fr"		"Concours de saut"
+	}
+	"Played LR"
+	{
+		"fr"		"Total de DV jouées"
+	}
+	"Won LR"
+	{
+		"fr"		"Total de DV gagnées"
+	}
+	"Lost LR"
+	{
+		"fr"		"Total de DV perdues"
+	}
+	"WinRate"
+	{
+		"fr"		"Ratio de victoire en DV"
+	}
+	"Error"
+	{
+		"fr"		"Erreur"
+	}
+	"Cant Connect"
+	{
+		"fr"		"Connexion au serveur impossible"
+	}
+	"Top Hundred"
+	{
+		"fr"		"TOP100 Statistiques DV"
+	}
+	"Top Ten"
+	{
+		"fr"		"TOP10 Statistiques DV"
+	}
+	"Player Stat"
+	{
+		"fr"		"Statistiques DV de {1}"
+	}
+	"Your Stat"
+	{
+		"fr"		"Tes statisques DV"
+	}
+	"Back"
+	{
+		"fr"		"Retour"
+	}
+	"Exit"
+	{
+		"fr"		"Quitter"
+	}
+	"No Database"
+	{
+		"fr"		"Échec du démarrage. Erreur: \"lr_stats\" n'est pas configuré dans databases.cfg."
+	}
+	"Hosties Required"
+	{
+		"fr"		"ENT_Hosties est requis pour utiliser ce plugin."
+	}
+}

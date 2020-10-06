@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"de"		"Du hast noch keine Statistiken."
+	}
+	"Summary"
+	{
+		"de"		"Zusammenfassung"
+	}
+	"LR_KnifeFight"
+	{
+		"de"		"Messerkampf"
+	}
+	"LR_Shot4Shot"
+	{
+		"de"		"Shot4Shot"
+	}
+	"LR_GunToss"
+	{
+		"de"		"Waffenweitwurf"
+	}
+	"LR_ChickenFight"
+	{
+		"de"		"Huehnchen Kampf"
+	}
+	"LR_HotPotato"
+	{
+		"de"		"Heisse Kartoffel"
+	}
+	"LR_Dodgeball"
+	{
+		"de"		"Dodgeball"
+	}
+	"LR_NoScope"
+	{
+		"de"		"No Scope"
+	}
+	"LR_RockPaperScissors"
+	{
+		"de"		"Schere Stein Papier"
+	}
+	"LR_Rebel"
+	{
+		"de"		"Rebel"
+	}
+	"LR_Mag4Mag"
+	{
+		"de"		"Mag4Mag"
+	}
+	"LR_Race"
+	{
+		"de"		"Rennen"
+	}
+	"LR_RussianRoulette"
+	{
+		"de"		"Russisches Roulette"
+	}
+	"LR_JumpContest"
+	{
+		"de"		"Sprung Wettbewerb"
+	}
+	"Played LR"
+	{
+		"de"		"Gespielte LRs:"
+	}
+	"Won LR"
+	{
+		"de"		"Gewonnene LRs:"
+	}
+	"Lost LR"
+	{
+		"de"		"Verlorene LRs:"
+	}
+	"WinRate"
+	{
+		"de"		"Siegesrate:"
+	}
+	"Error"
+	{
+		"de"		"Fehler"
+	}
+	"Cant Connect"
+	{
+		"de"		"Du kannst dich nicht mit diesem Server verbinden"
+	}
+	"Top Hundred"
+	{
+		"de"		"TOP100 LR Statistiken"
+	}
+	"Top Ten"
+	{
+		"de"		"TOP10 LR Statistiken"
+	}
+	"Player Stat"
+	{
+		"de"		"{1} LR Statistiken"
+	}
+	"Your Stat"
+	{
+		"de"		"Deine LR Statistiken"
+	}
+	"Back"
+	{
+		"de"		"Zurueck"
+	}
+	"Exit"
+	{
+		"de"		"Verlassen"
+	}
+	"No Database"
+	{
+		"de"		"Start fehlgeschlagen. Fehler: Kein Eintrag fuer \"lr_stats\" in databases.cfg gefunden ."
+	}
+	"Hosties Required"
+	{
+		"de"		"ENT_Hosties wird benoetigt um dieses Plugin nutzen zu koennen."
+	}
+}

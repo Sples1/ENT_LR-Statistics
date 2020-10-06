@@ -1,0 +1,120 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"en"		"You have no statistics yet."
+	}
+	"Summary"
+	{
+		"en"		"Summary"
+	}
+	"LR_KnifeFight"
+	{
+		"en"		"Knife Fight"
+	}
+	"LR_Shot4Shot"
+	{
+		"en"		"Shot4Shot"
+	}
+	"LR_GunToss"
+	{
+		"en"		"Gun Toss"
+	}
+	"LR_ChickenFight"
+	{
+		"en"		"Chicken Fight"
+	}
+	"LR_HotPotato"
+	{
+		"en"		"Hot Potato"
+	}
+	"LR_Dodgeball"
+	{
+		"en"		"Dodgeball"
+	}
+	"LR_NoScope"
+	{
+		"en"		"No Scope"
+	}
+	"LR_RockPaperScissors"
+	{
+		"en"		"Rock Paper Scissors"
+	}
+	"LR_Rebel"
+	{
+		"en"		"Rebel"
+	}
+	"LR_Mag4Mag"
+	{
+		"en"		"Mag4Mag"
+	}
+	"LR_Race"
+	{
+		"en"		"Race"
+	}
+	"LR_RussianRoulette"
+	{
+		"en"		"Russian Roulette"
+	}
+	"LR_JumpContest"
+	{
+		"en"		"Jump Contest"
+	}
+	"Played LR"
+	{
+		"en"		"LR played:"
+	}
+	"Won LR"
+	{
+		"en"		"LR won:"
+	}
+	"Lost LR"
+	{
+		"en"		"LR lost:"
+	}
+	"WinRate"
+	{
+		"en"		"Win rate:"
+	}
+	"Error"
+	{
+		"en"		"Error"
+	}
+	"Cant Connect"
+	{
+		"en"		"Can't connect to server"
+	}
+	"Top Hundred"
+	{
+		"en"		"TOP100 LR Statistics"
+	}
+	"Top Ten"
+	{
+		"en"		"TOP10 LR Statistics"
+	}
+	"Player Stat"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} LR Statistics"
+	}
+	"Your Stat"
+	{
+		"en"		"Your LR Statistics"
+	}
+	"Back"
+	{
+		"en"		"Back"
+	}
+	"Exit"
+	{
+		"en"		"Exit"
+	}
+	"No Database"
+	{
+		"en"		"Startup failed. Error: \"lr_stats\" is not a specified entry in databases.cfg."
+	}
+	"Hosties Required"
+	{
+		"en"		"ENT_Hosties is required to run this plugin."
+	}
+}

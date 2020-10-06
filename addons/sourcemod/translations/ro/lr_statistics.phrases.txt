@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"ro"		"Nu detii statistici inca."
+	}
+	"Summary"
+	{
+		"ro"		"Sumar"
+	}
+	"LR_KnifeFight"
+	{
+		"ro"		"Knife Fight"
+	}
+	"LR_Shot4Shot"
+	{
+		"ro"		"Shot4Shot"
+	}
+	"LR_GunToss"
+	{
+		"ro"		"Gun Toss"
+	}
+	"LR_ChickenFight"
+	{
+		"ro"		"Chicken Fight"
+	}
+	"LR_HotPotato"
+	{
+		"ro"		"Hot Potato"
+	}
+	"LR_Dodgeball"
+	{
+		"ro"		"Dodgeball"
+	}
+	"LR_NoScope"
+	{
+		"ro"		"No Scope"
+	}
+	"LR_RockPaperScissors"
+	{
+		"ro"		"Piatra Foarfeca Hartie"
+	}
+	"LR_Rebel"
+	{
+		"ro"		"Rebel"
+	}
+	"LR_Mag4Mag"
+	{
+		"ro"		"Mag4Mag"
+	}
+	"LR_Race"
+	{
+		"ro"		"Cursa"
+	}
+	"LR_RussianRoulette"
+	{
+		"ro"		"Ruleta Ruseasca"
+	}
+	"LR_JumpContest"
+	{
+		"ro"		"Concurs sarituri"
+	}
+	"Played LR"
+	{
+		"ro"		"LR jucat:"
+	}
+	"Won LR"
+	{
+		"ro"		"LR castig:"
+	}
+	"Lost LR"
+	{
+		"ro"		"LR pierdere:"
+	}
+	"WinRate"
+	{
+		"ro"		"Rata castig:"
+	}
+	"Error"
+	{
+		"ro"		"Eroare"
+	}
+	"Cant Connect"
+	{
+		"ro"		"Nu s-a efectuat conexiunea la server"
+	}
+	"Top Hundred"
+	{
+		"ro"		"TOP100 Statistici LR"
+	}
+	"Top Ten"
+	{
+		"ro"		"TOP10 Statistici LR"
+	}
+	"Player Stat"
+	{
+		"ro"		"{1} Statistici LR"
+	}
+	"Your Stat"
+	{
+		"ro"		"Statisticile LR personale"
+	}
+	"Back"
+	{
+		"ro"		"Inapoi"
+	}
+	"Exit"
+	{
+		"ro"		"Iesire"
+	}
+	"No Database"
+	{
+		"ro"		"Initiere esuata. Eroare: \"lr_stats\" nu este o intrare in fisierul databases.cfg."
+	}
+	"Hosties Required"
+	{
+		"ro"		"ENT_Hosties este necesar pentru rularea acestui plugin."
+	}
+}

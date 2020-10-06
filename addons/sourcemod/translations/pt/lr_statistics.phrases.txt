@@ -1,0 +1,120 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"pt"		"Você não tem estatística ainda."
+	}
+	"Summary"
+	{
+		"pt"		"Sumário"
+	}
+	"LR_KnifeFight"
+	{
+		"pt"		"Guerra de Facas"
+	}
+	"LR_Shot4Shot"
+	{
+		"pt"		"Tiro por Tiro"
+	}
+	"LR_GunToss"
+	{
+		"pt"		"Gun Toss"
+	}
+	"LR_ChickenFight"
+	{
+		"pt"		"Briga de Galo"
+	}
+	"LR_HotPotato"
+	{
+		"pt"		"Batata Quente"
+	}
+	"LR_Dodgeball"
+	{
+		"pt"		"Queimada"
+	}
+	"LR_NoScope"
+	{
+		"pt"		"No Scope"
+	}
+	"LR_RockPaperScissors"
+	{
+		"pt"		"Pedra Papel Tesoura"
+	}
+	"LR_Rebel"
+	{
+		"pt"		"Rebelar"
+	}
+	"LR_Mag4Mag"
+	{
+		"pt"		"Mag por Mag"
+	}
+	"LR_Race"
+	{
+		"pt"		"Corrida"
+	}
+	"LR_RussianRoulette"
+	{
+		"pt"		"Roleta Russa"
+	}
+	"LR_JumpContest"
+	{
+		"pt"		"Jump Contest"
+	}
+	"Played LR"
+	{
+		"pt"		"LR Jogados:"
+	}
+	"Won LR"
+	{
+		"pt"		"LR Ganhos:"
+	}
+	"Lost LR"
+	{
+		"pt"		"LR Perdidos:"
+	}
+	"WinRate"
+	{
+		"pt"		"Taxa de  Vitória:"
+	}
+	"Error"
+	{
+		"pt"		"Erro"
+	}
+	"Cant Connect"
+	{
+		"pt"		"Falha ao Conectar ao servidor"
+	}
+	"Top Hundred"
+	{
+		"pt"		"TOP100 Estatística LR"
+	}
+	"Top Ten"
+	{
+		"pt"		"TOP10 Estatística LR"
+	}
+	"Player Stat"
+	{
+		"#format"	"{1:N}"
+		"pt"		"Estatísticas LR do {1}"
+	}
+	"Your Stat"
+	{
+		"pt"		"Suas Estatísticas de LR"
+	}
+	"Back"
+	{
+		"pt"		"Voltar"
+	}
+	"Exit"
+	{
+		"pt"		"Sair"
+	}
+	"No Database"
+	{
+		"pt"		"Falha ao iniciar. ERRO: \"lr_stats\" não está configurada na databases.cfg."
+	}
+	"Hosties Required"
+	{
+		"pt"		"É necessário o plugin ENT_Hosties para a estatísticas de LR funcionar."
+	}
+}

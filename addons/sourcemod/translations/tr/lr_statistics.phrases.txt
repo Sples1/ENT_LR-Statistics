@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"tr"		"Henüz istatistiğiniz yok."
+	}
+	"Summary"
+	{
+		"tr"		"Özet"
+	}
+	"LR_KnifeFight"
+	{
+		"tr"		"Bıçak Dövüşü"
+	}
+	"LR_Shot4Shot"
+	{
+		"tr"		"Shot4Shot"
+	}
+	"LR_GunToss"
+	{
+		"tr"		"Silah Atma"
+	}
+	"LR_ChickenFight"
+	{
+		"tr"		"Tavuk Dövüşü"
+	}
+	"LR_HotPotato"
+	{
+		"tr"		"Sıcak Patates"
+	}
+	"LR_Dodgeball"
+	{
+		"tr"		"Yakar Top"
+	}
+	"LR_NoScope"
+	{
+		"tr"		"Dürbünsüz"
+	}
+	"LR_RockPaperScissors"
+	{
+		"tr"		"Taş Kağıt Makas"
+	}
+	"LR_Rebel"
+	{
+		"tr"		"İsyancı"
+	}
+	"LR_Mag4Mag"
+	{
+		"tr"		"Mag4Mag"
+	}
+	"LR_Race"
+	{
+		"tr"		"Yarış"
+	}
+	"LR_RussianRoulette"
+	{
+		"tr"		"Rus Ruleti"
+	}
+	"LR_JumpContest"
+	{
+		"tr"		"Zıplama Yarışması"
+	}
+	"Played LR"
+	{
+		"tr"		"LR oynadı:"
+	}
+	"Won LR"
+	{
+		"tr"		"LR kazandı:"
+	}
+	"Lost LR"
+	{
+		"tr"		"LR kaybetti:"
+	}
+	"WinRate"
+	{
+		"tr"		"Kazanma Oranı:"
+	}
+	"Error"
+	{
+		"tr"		"Hata"
+	}
+	"Cant Connect"
+	{
+		"tr"		"Sunucuya bağlanılamıyor"
+	}
+	"Top Hundred"
+	{
+		"tr"		"En iyi 100 LR İstatistiği"
+	}
+	"Top Ten"
+	{
+		"tr"		"En iyi 10 LR İstatistiği"
+	}
+	"Player Stat"
+	{
+		"tr"		"{1} LR İstatistikleri"
+	}
+	"Your Stat"
+	{
+		"tr"		"LR İstatistikleriniz"
+	}
+	"Back"
+	{
+		"tr"		"Geri"
+	}
+	"Exit"
+	{
+		"tr"		"Çıkış"
+	}
+	"No Database"
+	{
+		"tr"		"Başlatma başarısız oldu. Hata: \"lr_stats\" databases.cfg'de belirtilen bir girdi değil."
+	}
+	"Hosties Required"
+	{
+		"tr"		"Bu eklentiyi çalıştırmak için ENT_Hosties gereklidir."
+	}
+}

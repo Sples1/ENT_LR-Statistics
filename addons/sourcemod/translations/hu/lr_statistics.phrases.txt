@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"hu"		"Még nincs statisztikád."
+	}
+	"Summary"
+	{
+		"hu"		"Összegzés"
+	}
+	"LR_KnifeFight"
+	{
+		"hu"		"Kés harc"
+	}
+	"LR_Shot4Shot"
+	{
+		"hu"		"Shot4Shot"
+	}
+	"LR_GunToss"
+	{
+		"hu"		"Fegyver dobás"
+	}
+	"LR_ChickenFight"
+	{
+		"hu"		"Csirke harc"
+	}
+	"LR_HotPotato"
+	{
+		"hu"		"Forró kumpli"
+	}
+	"LR_Dodgeball"
+	{
+		"hu"		"Kidobós"
+	}
+	"LR_NoScope"
+	{
+		"hu"		"No Scope"
+	}
+	"LR_RockPaperScissors"
+	{
+		"hu"		"Kő Papír olló"
+	}
+	"LR_Rebel"
+	{
+		"hu"		"Lázadás"
+	}
+	"LR_Mag4Mag"
+	{
+		"hu"		"Mag4Mag"
+	}
+	"LR_Race"
+	{
+		"hu"		"Verseny"
+	}
+	"LR_RussianRoulette"
+	{
+		"hu"		"Orosz rulett"
+	}
+	"LR_JumpContest"
+	{
+		"hu"		"Ugró verseny"
+	}
+	"Played LR"
+	{
+		"hu"		"Lejátszott LR-ek:"
+	}
+	"Won LR"
+	{
+		"hu"		"Megnyert LR-ek:"
+	}
+	"Lost LR"
+	{
+		"hu"		"Elvesztett LR-ek:"
+	}
+	"WinRate"
+	{
+		"hu"		"Győzelmi arány:"
+	}
+	"Error"
+	{
+		"hu"		"Hiba"
+	}
+	"Cant Connect"
+	{
+		"hu"		"Nem lehet csatlakozni a szerverhez"
+	}
+	"Top Hundred"
+	{
+		"hu"		"TOP100 LR statisztika"
+	}
+	"Top Ten"
+	{
+		"hu"		"TOP10 LR statisztika"
+	}
+	"Player Stat"
+	{
+		"hu"		"{1} LR statisztikája"
+	}
+	"Your Stat"
+	{
+		"hu"		"Saját LR statisztika"
+	}
+	"Back"
+	{
+		"hu"		"Vissza"
+	}
+	"Exit"
+	{
+		"hu"		"Kilépés"
+	}
+	"No Database"
+	{
+		"hu"		"Sikertelen indítás. Hiba: \"lr_stats\" nem egy meghatározott rekord a databases.cfg-ben"
+	}
+	"Hosties Required"
+	{
+		"hu"		"ENT_Hosties feltétele a plugin futásának."
+	}
+}

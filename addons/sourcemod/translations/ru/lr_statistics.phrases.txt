@@ -1,0 +1,119 @@
+"Phrases"
+{
+	"No Stats Yet"
+	{
+		"ru"		"У вас еще нет статистики."
+	}
+	"Summary"
+	{
+		"ru"		"Суммарно"
+	}
+	"LR_KnifeFight"
+	{
+		"ru"		"Бой на ножах"
+	}
+	"LR_Shot4Shot"
+	{
+		"ru"		"Рулетка"
+	}
+	"LR_GunToss"
+	{
+		"ru"		"Метание"
+	}
+	"LR_ChickenFight"
+	{
+		"ru"		"Петушиный Бой"
+	}
+	"LR_HotPotato"
+	{
+		"ru"		"Картошка"
+	}
+	"LR_Dodgeball"
+	{
+		"ru"		"Вышибалы"
+	}
+	"LR_NoScope"
+	{
+		"ru"		"Битва без Прицела"
+	}
+	"LR_RockPaperScissors"
+	{
+		"ru"		"Камень-Ножницы-Бумага"
+	}
+	"LR_Rebel"
+	{
+		"ru"		"Бунтовать"
+	}
+	"LR_Mag4Mag"
+	{
+		"ru"		"Обойма на Обойму"
+	}
+	"LR_Race"
+	{
+		"ru"		"Гонка"
+	}
+	"LR_RussianRoulette"
+	{
+		"ru"		"Русская Рулетка"
+	}
+	"LR_JumpContest"
+	{
+		"ru"		"Попрыгунчики"
+	}
+	"Played LR"
+	{
+		"ru"		"LR игрок:"
+	}
+	"Won LR"
+	{
+		"ru"		"LR выиграл:"
+	}
+	"Lost LR"
+	{
+		"ru"		"LR проиграл:"
+	}
+	"WinRate"
+	{
+		"ru"		"Шанс на победу:"
+	}
+	"Error"
+	{
+		"ru"		"Ошибка"
+	}
+	"Cant Connect"
+	{
+		"ru"		"Невозможно подключиться к серверу"
+	}
+	"Top Hundred"
+	{
+		"ru"		"TOP100 LR Статистика"
+	}
+	"Top Ten"
+	{
+		"ru"		"TOP10 LR Статистика"
+	}
+	"Player Stat"
+	{
+		"ru"		"{1} LR Статистика"
+	}
+	"Your Stat"
+	{
+		"ru"		"Ваша LR Статистика"
+	}
+	"Back"
+	{
+		"ru"		"Назад"
+	}
+	"Exit"
+	{
+		"ru"		"Выход"
+	}
+	"No Database"
+	{
+		"ru"		"Не удалось запустить. Ошибка: \"lr_stats\" не указана запись в databases.cfg."
+	}
+	"Hosties Required"
+	{
+		"ru"		"Требуется ENT_Hosties для запуска этого плагина."
+	}
+}
