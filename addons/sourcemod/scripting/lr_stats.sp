@@ -305,33 +305,33 @@ public int TopStats(Menu menu, MenuAction action, int client, int itemNum)
 		switch (itemNum)
 		{
 			case 0:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((played_lr / lr_won) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_won DESC LIMIT 10");
 			case 1:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_kf_p / lr_kf_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_kf_w DESC LIMIT 10");
 			case 2:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_s4s_p / lr_s4s_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_s4s_w DESC LIMIT 10");
 			case 3:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_gt_p / lr_gt_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_gt_w DESC LIMIT 10");
 			case 4:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_cf_p / lr_cf_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_cf_w DESC LIMIT 10");
 			case 5:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_hp_p / lr_hp_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_hp_w DESC LIMIT 10");
 			case 6:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_db_p / lr_db_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_db_w DESC LIMIT 10");
 			case 7:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_ns_p / lr_ns_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_ns_w DESC LIMIT 10");
 			case 8:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_rps_p / lr_rps_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_rps_w DESC LIMIT 10");
 			case 9:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_rebel_p / lr_rebel_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_rebel_w DESC LIMIT 10");
 			case 10:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_m4m_p / lr_m4m_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_m4m_w DESC LIMIT 10");
 			case 11:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_r_p / lr_r_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_r_w DESC LIMIT 10");
 			case 12:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_rr_p / lr_rr_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_rr_w DESC LIMIT 10");
 			case 13:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_jg_p / lr_jg_w) * 100) DESC LIMIT 10");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_jg_w DESC LIMIT 10");
 		}
 		
 		DB.Query(GetTopStat_Callback, query, client);
@@ -438,33 +438,33 @@ public int SBStats(Menu menu, MenuAction action, int client, int itemNum)
 		switch (itemNum)
 		{
 			case 0:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((played_lr / lr_won) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_won DESC LIMIT 100");
 			case 1:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_kf_p / lr_kf_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_kf_w DESC LIMIT 100");
 			case 2:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_s4s_p / lr_s4s_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_s4s_w DESC LIMIT 100");
 			case 3:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_gt_p / lr_gt_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_gt_w DESC LIMIT 100");
 			case 4:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_cf_p / lr_cf_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_cf_w DESC LIMIT 100");
 			case 5:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_hp_p / lr_hp_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_hp_w DESC LIMIT 100");
 			case 6:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_db_p / lr_db_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_db_w DESC LIMIT 100");
 			case 7:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_ns_p / lr_ns_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_ns_w DESC LIMIT 100");
 			case 8:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_rps_p / lr_rps_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_rps_w DESC LIMIT 100");
 			case 9:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_rebel_p / lr_rebel_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_rebel_w DESC LIMIT 100");
 			case 10:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_m4m_p / lr_m4m_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_m4m_w DESC LIMIT 100");
 			case 11:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_r_p / lr_r_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_r_w DESC LIMIT 100");
 			case 12:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_rr_p / lr_rr_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_rr_w DESC LIMIT 100");
 			case 13:
-				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY ((lr_jg_p / lr_jg_w) * 100) DESC LIMIT 100");
+				DB.Format(query, sizeof(query), "SELECT * FROM `lr_stats` ORDER BY lr_jg_w DESC LIMIT 100");
 		}
 		
 		DB.Query(GetSBStat_Callback, query, client);
