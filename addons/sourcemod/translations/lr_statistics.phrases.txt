@@ -94,7 +94,7 @@
 	}
 	"Player Stat"
 	{
-		"#format"	"{1:N}"
+		"#format"	"{1:s}"
 		"en"		"{1} LR Statistics"
 	}
 	"Your Stat"
@@ -116,5 +116,9 @@
 	"Hosties Required"
 	{
 		"en"		"ENT_Hosties is required to run this plugin."
+	}
+	"No Data"
+	{
+		"en"		"There is not enough data to open the Toplist yet."
 	}
 }

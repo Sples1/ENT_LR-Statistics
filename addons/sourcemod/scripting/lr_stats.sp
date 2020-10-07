@@ -34,7 +34,7 @@
 #pragma newdecls required
 
 #define LR_E_NAME						"[ENT-HOSTIES] LR Statistics"
-#define LR_E_VERSION					"1.0b"
+#define LR_E_VERSION					"1.1b"
 
 enum LR_Types
 {
@@ -362,6 +362,8 @@ public void GetTopStat_Callback(Database db, DBResultSet result, char[] error, i
 		menu.ExitBackButton = true;
 		menu.Display(client, MENU_TIME_FOREVER);
 	}
+	else
+		CPrintToChat(client, "%s %t", gShadow_LR_E_ChatPrefix, "No Data");
 }
 
 public int TopChoice(Menu menu, MenuAction action, int client, int itemNum)
@@ -495,6 +497,8 @@ public void GetSBStat_Callback(Database db, DBResultSet result, char[] error, in
 		menu.ExitBackButton = true;
 		menu.Display(client, MENU_TIME_FOREVER);
 	}
+	else
+		CPrintToChat(client, "%s %t", gShadow_LR_E_ChatPrefix, "No Data");
 }
 
 public int SBChoice(Menu menu, MenuAction action, int client, int itemNum)
@@ -591,9 +595,10 @@ public void GetUserStat_Callback(Database db, DBResultSet result, char[] error, 
 	{
 		while(result.FetchRow())
 		{
-			char buffer[128];
+			char buffer[128], name[MAX_NAME_LENGTH];
 			Panel panel = new Panel();
-			Format(buffer, sizeof(buffer), "---=| %t |=---\n ", "Player Stat", client);
+			result.FetchString(0, name, sizeof(name));
+			Format(buffer, sizeof(buffer), "---=| %t |=---\n ", "Player Stat", name);
 			panel.SetTitle(buffer);
 			
 			int total, win, lose, wr;
