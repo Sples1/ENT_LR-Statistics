@@ -116,4 +116,8 @@
 	{
 		"tr"		"Bu eklentiyi çalıştırmak için ENT_Hosties gereklidir."
 	}
+	"No Data"
+	{
+		"tr"		"Henüz Toplist'i açmak için yeterli veri yok."
+	}
 }

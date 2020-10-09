@@ -116,4 +116,8 @@
 	{
 		"fr"		"ENT_Hosties est requis pour utiliser ce plugin."
 	}
+	"No Data"
+	{
+		"fr"		"Il n'y a pas encore assez de données pour ouvrir le tableau des scores."
+	}
 }
