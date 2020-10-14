@@ -116,4 +116,8 @@
 	{
 		"de"		"ENT_Hosties wird benoetigt um dieses Plugin nutzen zu koennen."
 	}
+	"No Data"
+	{
+		"de"		"Es gibt noch nicht genuegend Daten fuer Statistiken."
+	}
 }
