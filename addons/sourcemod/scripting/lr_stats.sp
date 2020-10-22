@@ -34,7 +34,7 @@
 #pragma newdecls required
 
 #define LR_E_NAME						"[ENT-HOSTIES] LR Statistics"
-#define LR_E_VERSION					"1.1b"
+#define LR_E_VERSION					"1.2b"
 
 enum LR_Types
 {
@@ -144,6 +144,8 @@ public void OnClientPostAdminCheck(int client)
 
 public void OnStartLR(int PrisonerIndex, int GuardIndex, int Type)
 {
+	if (Type > view_as<int>(LR_E_JumpContest)) return;
+
 	int len;
 	if (IsValidClient(PrisonerIndex))
     {
@@ -176,7 +178,7 @@ public void OnStartLR(int PrisonerIndex, int GuardIndex, int Type)
 
 public Action Timer_LR_Analyzer(Handle timer, int client)
 {
-	if (!IsValidClient(client))
+	if (!IsValidClient(client) || (gH_Cvar_LR_E_ClientLR[client] > view_as<int>(LR_E_JumpContest)))
 		return Plugin_Stop;
 
 	if (!IsClientInLastRequest(client))
